@@ -26,3 +26,9 @@ On-premises
 SSL(Secure Sockets Layer) 보안 서버
 
 -> 인터넷에서 데이터 안전 전송을 위한 인터넷 규약 프로토콜
+
+FE : Front End (Client)
+
+- SPA (Single Process Application)
+
+- 모달창 : 작게 뜨는 팝업 (회원가입, 로그인 등)
