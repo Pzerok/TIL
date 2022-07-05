@@ -1,9 +1,13 @@
-# 객체 지향 
+## JAVA
 
-1. 캡슐화
+# Eclipse
 
-2. 추상화
+- 사용 팁
 
-3. 다향성
+1. sout -> Ctrl+ Space -> System.out.println(); 자동 완성
 
-4. 
+2. ALT + 위 아래. 라인 코드 옮기기
+
+3. Ctrl + ALT 위 아래. 행 복사.
+
+4. Ctrl + Shift + 'o' 임포트 한번에 적용.
