@@ -244,3 +244,12 @@ printf() 출력 포멧을 지정한다.
 
 ctrl+space 툴팁.
 
+Random 난수를 쓰지 않고 Scanner처럼 따로 사용한다. (보안문제)
+
+for문을 두 개 돌리는 것을 잘 활용하면 그림 그리기 좋다.
+
+글자의 비교를 위해 사용하는 메소드.
+
+String str1 = sc.nextLine();
+
+boolean bl = str1.equals("aaa");
